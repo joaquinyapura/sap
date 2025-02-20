@@ -1,3 +1,4 @@
+import { ComputerSection } from "./Components/ComputerSection";
 import { Hero } from "./Components/Hero";
 import { Navbar } from "./Components/Navbar";
 
@@ -6,6 +7,7 @@ function App() {
     <div className="bg-gray-900">
       <Navbar />
       <Hero />
+      <ComputerSection />
     </div>
   );
 }

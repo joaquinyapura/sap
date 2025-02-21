@@ -10,8 +10,7 @@ export const Newsletter = () => {
           </h1>
           <p className="mr-2">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Praesentium sed neque voluptates ratione illo tempore consequuntur
-            doloribus in incidunt maiores.
+            <span className="text-blue-800">policy privacity</span>
           </p>
         </div>
         <div className="flex flex-col mt-2">

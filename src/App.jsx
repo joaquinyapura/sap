@@ -1,3 +1,4 @@
+import { Cards } from "./Components/Cards";
 import { ComputerSection } from "./Components/ComputerSection";
 import { Hero } from "./Components/Hero";
 import { Navbar } from "./Components/Navbar";
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <ComputerSection />
       <Newsletter />
+      <Cards />
     </div>
   );
 }

@@ -17,7 +17,7 @@ export const Cards = () => {
             Start Trial
           </button>
         </div>
-        <div className="w-full shadow-lg p-6 flex flex-col  items-center hover:scale-110 rounded-md transition-all ease-out duration-200 bg-slate-300">
+        <div className="w-full shadow-lg p-6 flex flex-col  items-center hover:scale-110 rounded-md transition-all ease-out duration-200 bg-slate-100">
           <IoPeopleSharp className="text-6xl text-gray-700" />
           <h1 className="font-bold text-2xl"> Single User</h1>
           <h2 className="font-bold text-4xl">$90</h2>
